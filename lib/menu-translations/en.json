@@ -1,0 +1,57 @@
+{
+  "ui": {
+    "digitalMenu": "Spanish digital menu",
+    "search": "Search drinks",
+    "all": "All",
+    "emptyTitle": "No products found",
+    "emptyText": "Try another search or category.",
+    "close": "Close",
+    "viewImage": "View larger image",
+    "favoritesTitle": "Top-rated favorites",
+    "favoritesText": "The products your customers marked with the most stars.",
+    "favoritesTab": "Favorites",
+    "ratingLabel": "Rate product",
+    "pendingPrice": "Price pending"
+  },
+  "categories": {
+    "Bebidas": "Drinks"
+  },
+  "products": {
+    "Bebida 1": "Drink 1",
+    "Bebida 2": "Drink 2",
+    "Bebida 3": "Drink 3",
+    "Bebida 4": "Drink 4",
+    "Bebida 5": "Drink 5",
+    "Bebida 6": "Drink 6",
+    "Bebida 7": "Drink 7",
+    "Bebida 8": "Drink 8",
+    "Bebida 9": "Drink 9",
+    "Bebida 10": "Drink 10",
+    "Bebida 11": "Drink 11",
+    "Bebida 12": "Drink 12",
+    "Bebida 13": "Drink 13",
+    "Bebida 14": "Drink 14",
+    "Bebida 15": "Drink 15",
+    "Bebida 16": "Drink 16",
+    "Bebida 17": "Drink 17",
+    "Bebida 18": "Drink 18",
+    "Bebida 19": "Drink 19",
+    "Bebida 20": "Drink 20",
+    "Bebida 21": "Drink 21",
+    "Bebida 22": "Drink 22",
+    "Bebida 23": "Drink 23",
+    "Bebida 24": "Drink 24",
+    "Bebida 25": "Drink 25",
+    "Bebida 26": "Drink 26",
+    "Bebida 27": "Drink 27",
+    "Bebida 28": "Drink 28",
+    "Bebida 29": "Drink 29",
+    "Bebida 30": "Drink 30",
+    "Bebida 31": "Drink 31",
+    "Bebida 32": "Drink 32"
+  },
+  "words": {
+    "bebida": "drink",
+    "bebidas": "drinks"
+  }
+}

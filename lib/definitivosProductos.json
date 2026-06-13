@@ -1,0 +1,258 @@
+[
+  {
+    "id": "bebida-1",
+    "name": "Bebida 1",
+    "description": "",
+    "price": 0,
+    "image": "/imagenes/01-20231028115751-principal-choripan-receta.jpg",
+    "category": "BEBIDAS"
+  },
+  {
+    "id": "bebida-2",
+    "name": "Bebida 2",
+    "description": "",
+    "price": 0,
+    "image": "/imagenes/02-219-09-patatas-bravas-alioli-yt-1280x720.jpg",
+    "category": "BEBIDAS"
+  },
+  {
+    "id": "bebida-3",
+    "name": "Bebida 3",
+    "description": "",
+    "price": 0,
+    "image": "/imagenes/03-63714f-4bd0f838dac84a6f8e139ac40146afdf-mv2.avif",
+    "category": "BEBIDAS"
+  },
+  {
+    "id": "bebida-4",
+    "name": "Bebida 4",
+    "description": "",
+    "price": 0,
+    "image": "/imagenes/04-almejas-salsa-verde-1-480x270.jpg",
+    "category": "BEBIDAS"
+  },
+  {
+    "id": "bebida-5",
+    "name": "Bebida 5",
+    "description": "",
+    "price": 0,
+    "image": "/imagenes/05-arroz-de-marisco-kitchenerportugueseclub.jpg",
+    "category": "BEBIDAS"
+  },
+  {
+    "id": "bebida-6",
+    "name": "Bebida 6",
+    "description": "",
+    "price": 0,
+    "image": "/imagenes/06-bruschetta-gourmet-con-queso-de-cabra-higo-y-reduccion-balsamica-creada-.webp",
+    "category": "BEBIDAS"
+  },
+  {
+    "id": "bebida-7",
+    "name": "Bebida 7",
+    "description": "",
+    "price": 0,
+    "image": "/imagenes/07-calamares-a-la-andaluza-e6e17098-250506101104-1200x630.jpg",
+    "category": "BEBIDAS"
+  },
+  {
+    "id": "bebida-8",
+    "name": "Bebida 8",
+    "description": "",
+    "price": 0,
+    "image": "/imagenes/08-color-del-cafe-filtrado-y-su-parecido-con-el-color-de-un-vino-tinto-scal.jpg",
+    "category": "BEBIDAS"
+  },
+  {
+    "id": "bebida-9",
+    "name": "Bebida 9",
+    "description": "",
+    "price": 0,
+    "image": "/imagenes/09-como-preparar-una-tabla-de-embutidos-e1516274841727-5b69330c-1bba-4bac-a.webp",
+    "category": "BEBIDAS"
+  },
+  {
+    "id": "bebida-10",
+    "name": "Bebida 10",
+    "description": "",
+    "price": 0,
+    "image": "/imagenes/10-croquetas-de-jamon-serrano.jpg",
+    "category": "BEBIDAS"
+  },
+  {
+    "id": "bebida-11",
+    "name": "Bebida 11",
+    "description": "",
+    "price": 0,
+    "image": "/imagenes/11-hq720.jpg",
+    "category": "BEBIDAS"
+  },
+  {
+    "id": "bebida-12",
+    "name": "Bebida 12",
+    "description": "",
+    "price": 0,
+    "image": "/imagenes/12-image-1-1-1.png",
+    "category": "BEBIDAS"
+  },
+  {
+    "id": "bebida-13",
+    "name": "Bebida 13",
+    "description": "",
+    "price": 0,
+    "image": "/imagenes/13-images-1.jpg",
+    "category": "BEBIDAS"
+  },
+  {
+    "id": "bebida-14",
+    "name": "Bebida 14",
+    "description": "",
+    "price": 0,
+    "image": "/imagenes/14-images-2.jpg",
+    "category": "BEBIDAS"
+  },
+  {
+    "id": "bebida-15",
+    "name": "Bebida 15",
+    "description": "",
+    "price": 0,
+    "image": "/imagenes/15-images-3.jpg",
+    "category": "BEBIDAS"
+  },
+  {
+    "id": "bebida-16",
+    "name": "Bebida 16",
+    "description": "",
+    "price": 0,
+    "image": "/imagenes/16-images-4.jpg",
+    "category": "BEBIDAS"
+  },
+  {
+    "id": "bebida-17",
+    "name": "Bebida 17",
+    "description": "",
+    "price": 0,
+    "image": "/imagenes/17-images-5.jpg",
+    "category": "BEBIDAS"
+  },
+  {
+    "id": "bebida-18",
+    "name": "Bebida 18",
+    "description": "",
+    "price": 0,
+    "image": "/imagenes/18-images.jpg",
+    "category": "BEBIDAS"
+  },
+  {
+    "id": "bebida-19",
+    "name": "Bebida 19",
+    "description": "",
+    "price": 0,
+    "image": "/imagenes/19-img-arroz-atollado-vallecaucano-con-pierna-y-costilla-de-cerdo-1536x808-.jpg",
+    "category": "BEBIDAS"
+  },
+  {
+    "id": "bebida-20",
+    "name": "Bebida 20",
+    "description": "",
+    "price": 0,
+    "image": "/imagenes/20-langostinos-a-la-plancha-con-ajo-y-perejil-paso-6.jpeg",
+    "category": "BEBIDAS"
+  },
+  {
+    "id": "bebida-21",
+    "name": "Bebida 21",
+    "description": "",
+    "price": 0,
+    "image": "/imagenes/21-maxresdefault.jpg",
+    "category": "BEBIDAS"
+  },
+  {
+    "id": "bebida-22",
+    "name": "Bebida 22",
+    "description": "",
+    "price": 0,
+    "image": "/imagenes/22-mitades-de-langosta-la-parrilla-servidas-en-plato-blanco-431047882.webp",
+    "category": "BEBIDAS"
+  },
+  {
+    "id": "bebida-23",
+    "name": "Bebida 23",
+    "description": "",
+    "price": 0,
+    "image": "/imagenes/23-oreja-de-cerdo-a-la-gallega0.jpg",
+    "category": "BEBIDAS"
+  },
+  {
+    "id": "bebida-24",
+    "name": "Bebida 24",
+    "description": "",
+    "price": 0,
+    "image": "/imagenes/24-paella-260nw-335433749.webp",
+    "category": "BEBIDAS"
+  },
+  {
+    "id": "bebida-25",
+    "name": "Bebida 25",
+    "description": "",
+    "price": 0,
+    "image": "/imagenes/25-paella-de-marisco-00000000-240903144336-1200x1200.jpg",
+    "category": "BEBIDAS"
+  },
+  {
+    "id": "bebida-26",
+    "name": "Bebida 26",
+    "description": "",
+    "price": 0,
+    "image": "/imagenes/26-pargo-rojo-entero-la-parrilla-con-pimientos-frescos-y-cal-en-una-bandeja.webp",
+    "category": "BEBIDAS"
+  },
+  {
+    "id": "bebida-27",
+    "name": "Bebida 27",
+    "description": "",
+    "price": 0,
+    "image": "/imagenes/27-pulpo-a-la-gallega-00000000-240227124229-1200x1200.jpg",
+    "category": "BEBIDAS"
+  },
+  {
+    "id": "bebida-28",
+    "name": "Bebida 28",
+    "description": "",
+    "price": 0,
+    "image": "/imagenes/28-recetas-gourmet-con-solomillo-de-ternera-1200x793.jpg",
+    "category": "BEBIDAS"
+  },
+  {
+    "id": "bebida-29",
+    "name": "Bebida 29",
+    "description": "",
+    "price": 0,
+    "image": "/imagenes/29-salmon-royale-con-camarones-742460.webp",
+    "category": "BEBIDAS"
+  },
+  {
+    "id": "bebida-30",
+    "name": "Bebida 30",
+    "description": "",
+    "price": 0,
+    "image": "/imagenes/30-seafood-fideua.jpg",
+    "category": "BEBIDAS"
+  },
+  {
+    "id": "bebida-31",
+    "name": "Bebida 31",
+    "description": "",
+    "price": 0,
+    "image": "/imagenes/31-spanish-garlic-shrimp.jpg",
+    "category": "BEBIDAS"
+  },
+  {
+    "id": "bebida-32",
+    "name": "Bebida 32",
+    "description": "",
+    "price": 0,
+    "image": "/imagenes/32-trucha-a-la-plancha.jpg",
+    "category": "BEBIDAS"
+  }
+]
