@@ -38,8 +38,8 @@ const mocks = vi.hoisted(() => {
       items: [
         {
           id: 'bebida-1',
-          name: 'Bebida 1',
-          description: '',
+          name: 'Nombre',
+          description: 'Descripcion',
           price: 0,
           image: '/imagenes/bebida.jpg',
           category: 'bebidas'
@@ -56,8 +56,8 @@ const mocks = vi.hoisted(() => {
       items: [
         {
           id: 'bebida-1',
-          name: 'Drink 1',
-          description: '',
+          name: 'Name',
+          description: 'Description',
           price: 0,
           image: '/imagenes/bebida.jpg',
           category: 'drinks'
@@ -97,7 +97,8 @@ describe('ClientMenu', () => {
     render(<ClientMenu />)
 
     expect(screen.getByRole('button', { name: 'Bebidas' })).toBeInTheDocument()
-    expect(screen.getByText('Bebida 1')).toBeInTheDocument()
+    expect(screen.getByText('Nombre')).toBeInTheDocument()
+    expect(screen.getByText('Descripcion')).toBeInTheDocument()
     expect(screen.getByText('Precio pendiente')).toBeInTheDocument()
   })
 
@@ -107,7 +108,8 @@ describe('ClientMenu', () => {
     fireEvent.click(screen.getByRole('button', { name: 'English' }))
 
     expect(await screen.findByRole('button', { name: 'Drinks' })).toBeInTheDocument()
-    expect(await screen.findByText('Drink 1')).toBeInTheDocument()
+    expect(await screen.findByText('Name')).toBeInTheDocument()
+    expect(await screen.findByText('Description')).toBeInTheDocument()
     expect(await screen.findByText('Price pending')).toBeInTheDocument()
   })
 

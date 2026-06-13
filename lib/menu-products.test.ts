@@ -40,10 +40,10 @@ describe('localized product catalogs', () => {
     expect(menuDataByLanguage.en[0].name).toBe('Drinks')
   })
 
-  it('leaves names editable placeholders and descriptions empty for admin work', () => {
-    expect(catalogs.es[0]).toMatchObject({ name: 'Bebida 1', description: '', category: 'BEBIDAS' })
-    expect(catalogs.en[0]).toMatchObject({ name: 'Drink 1', description: '', category: 'DRINKS' })
-    expect(catalogs.es.every((product) => product.description === '')).toBe(true)
-    expect(catalogs.en.every((product) => product.description === '')).toBe(true)
+  it('leaves editable placeholder names and descriptions for admin work', () => {
+    expect(catalogs.es[0]).toMatchObject({ name: 'Nombre', description: 'Descripcion', category: 'BEBIDAS' })
+    expect(catalogs.en[0]).toMatchObject({ name: 'Name', description: 'Description', category: 'DRINKS' })
+    expect(catalogs.es.every((product) => product.name === 'Nombre' && product.description === 'Descripcion')).toBe(true)
+    expect(catalogs.en.every((product) => product.name === 'Name' && product.description === 'Description')).toBe(true)
   })
 })

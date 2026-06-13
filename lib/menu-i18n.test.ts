@@ -8,7 +8,8 @@ describe('menu i18n', () => {
 
   it('translates the starter drinks catalog to English', () => {
     expect(translateText('Bebidas', 'en')).toBe('Drinks')
-    expect(translateText('Bebida 1', 'en')).toBe('Drink 1')
+    expect(translateText('Nombre', 'en')).toBe('Name')
+    expect(translateText('Descripcion', 'en')).toBe('Description')
   })
 
   it('formats prices and pending-price labels for the active language', () => {

@@ -1,256 +1,256 @@
 [
   {
     "id": "bebida-1",
-    "name": "Drink 1",
-    "description": "",
+    "name": "Name",
+    "description": "Description",
     "price": 0,
     "image": "/imagenes/01-20231028115751-principal-choripan-receta.jpg",
     "category": "DRINKS"
   },
   {
     "id": "bebida-2",
-    "name": "Drink 2",
-    "description": "",
+    "name": "Name",
+    "description": "Description",
     "price": 0,
     "image": "/imagenes/02-219-09-patatas-bravas-alioli-yt-1280x720.jpg",
     "category": "DRINKS"
   },
   {
     "id": "bebida-3",
-    "name": "Drink 3",
-    "description": "",
+    "name": "Name",
+    "description": "Description",
     "price": 0,
     "image": "/imagenes/03-63714f-4bd0f838dac84a6f8e139ac40146afdf-mv2.avif",
     "category": "DRINKS"
   },
   {
     "id": "bebida-4",
-    "name": "Drink 4",
-    "description": "",
+    "name": "Name",
+    "description": "Description",
     "price": 0,
     "image": "/imagenes/04-almejas-salsa-verde-1-480x270.jpg",
     "category": "DRINKS"
   },
   {
     "id": "bebida-5",
-    "name": "Drink 5",
-    "description": "",
+    "name": "Name",
+    "description": "Description",
     "price": 0,
     "image": "/imagenes/05-arroz-de-marisco-kitchenerportugueseclub.jpg",
     "category": "DRINKS"
   },
   {
     "id": "bebida-6",
-    "name": "Drink 6",
-    "description": "",
+    "name": "Name",
+    "description": "Description",
     "price": 0,
     "image": "/imagenes/06-bruschetta-gourmet-con-queso-de-cabra-higo-y-reduccion-balsamica-creada-.webp",
     "category": "DRINKS"
   },
   {
     "id": "bebida-7",
-    "name": "Drink 7",
-    "description": "",
+    "name": "Name",
+    "description": "Description",
     "price": 0,
     "image": "/imagenes/07-calamares-a-la-andaluza-e6e17098-250506101104-1200x630.jpg",
     "category": "DRINKS"
   },
   {
     "id": "bebida-8",
-    "name": "Drink 8",
-    "description": "",
+    "name": "Name",
+    "description": "Description",
     "price": 0,
     "image": "/imagenes/08-color-del-cafe-filtrado-y-su-parecido-con-el-color-de-un-vino-tinto-scal.jpg",
     "category": "DRINKS"
   },
   {
     "id": "bebida-9",
-    "name": "Drink 9",
-    "description": "",
+    "name": "Name",
+    "description": "Description",
     "price": 0,
     "image": "/imagenes/09-como-preparar-una-tabla-de-embutidos-e1516274841727-5b69330c-1bba-4bac-a.webp",
     "category": "DRINKS"
   },
   {
     "id": "bebida-10",
-    "name": "Drink 10",
-    "description": "",
+    "name": "Name",
+    "description": "Description",
     "price": 0,
     "image": "/imagenes/10-croquetas-de-jamon-serrano.jpg",
     "category": "DRINKS"
   },
   {
     "id": "bebida-11",
-    "name": "Drink 11",
-    "description": "",
+    "name": "Name",
+    "description": "Description",
     "price": 0,
     "image": "/imagenes/11-hq720.jpg",
     "category": "DRINKS"
   },
   {
     "id": "bebida-12",
-    "name": "Drink 12",
-    "description": "",
+    "name": "Name",
+    "description": "Description",
     "price": 0,
     "image": "/imagenes/12-image-1-1-1.png",
     "category": "DRINKS"
   },
   {
     "id": "bebida-13",
-    "name": "Drink 13",
-    "description": "",
+    "name": "Name",
+    "description": "Description",
     "price": 0,
     "image": "/imagenes/13-images-1.jpg",
     "category": "DRINKS"
   },
   {
     "id": "bebida-14",
-    "name": "Drink 14",
-    "description": "",
+    "name": "Name",
+    "description": "Description",
     "price": 0,
     "image": "/imagenes/14-images-2.jpg",
     "category": "DRINKS"
   },
   {
     "id": "bebida-15",
-    "name": "Drink 15",
-    "description": "",
+    "name": "Name",
+    "description": "Description",
     "price": 0,
     "image": "/imagenes/15-images-3.jpg",
     "category": "DRINKS"
   },
   {
     "id": "bebida-16",
-    "name": "Drink 16",
-    "description": "",
+    "name": "Name",
+    "description": "Description",
     "price": 0,
     "image": "/imagenes/16-images-4.jpg",
     "category": "DRINKS"
   },
   {
     "id": "bebida-17",
-    "name": "Drink 17",
-    "description": "",
+    "name": "Name",
+    "description": "Description",
     "price": 0,
     "image": "/imagenes/17-images-5.jpg",
     "category": "DRINKS"
   },
   {
     "id": "bebida-18",
-    "name": "Drink 18",
-    "description": "",
+    "name": "Name",
+    "description": "Description",
     "price": 0,
     "image": "/imagenes/18-images.jpg",
     "category": "DRINKS"
   },
   {
     "id": "bebida-19",
-    "name": "Drink 19",
-    "description": "",
+    "name": "Name",
+    "description": "Description",
     "price": 0,
     "image": "/imagenes/19-img-arroz-atollado-vallecaucano-con-pierna-y-costilla-de-cerdo-1536x808-.jpg",
     "category": "DRINKS"
   },
   {
     "id": "bebida-20",
-    "name": "Drink 20",
-    "description": "",
+    "name": "Name",
+    "description": "Description",
     "price": 0,
     "image": "/imagenes/20-langostinos-a-la-plancha-con-ajo-y-perejil-paso-6.jpeg",
     "category": "DRINKS"
   },
   {
     "id": "bebida-21",
-    "name": "Drink 21",
-    "description": "",
+    "name": "Name",
+    "description": "Description",
     "price": 0,
     "image": "/imagenes/21-maxresdefault.jpg",
     "category": "DRINKS"
   },
   {
     "id": "bebida-22",
-    "name": "Drink 22",
-    "description": "",
+    "name": "Name",
+    "description": "Description",
     "price": 0,
     "image": "/imagenes/22-mitades-de-langosta-la-parrilla-servidas-en-plato-blanco-431047882.webp",
     "category": "DRINKS"
   },
   {
     "id": "bebida-23",
-    "name": "Drink 23",
-    "description": "",
+    "name": "Name",
+    "description": "Description",
     "price": 0,
     "image": "/imagenes/23-oreja-de-cerdo-a-la-gallega0.jpg",
     "category": "DRINKS"
   },
   {
     "id": "bebida-24",
-    "name": "Drink 24",
-    "description": "",
+    "name": "Name",
+    "description": "Description",
     "price": 0,
     "image": "/imagenes/24-paella-260nw-335433749.webp",
     "category": "DRINKS"
   },
   {
     "id": "bebida-25",
-    "name": "Drink 25",
-    "description": "",
+    "name": "Name",
+    "description": "Description",
     "price": 0,
     "image": "/imagenes/25-paella-de-marisco-00000000-240903144336-1200x1200.jpg",
     "category": "DRINKS"
   },
   {
     "id": "bebida-26",
-    "name": "Drink 26",
-    "description": "",
+    "name": "Name",
+    "description": "Description",
     "price": 0,
     "image": "/imagenes/26-pargo-rojo-entero-la-parrilla-con-pimientos-frescos-y-cal-en-una-bandeja.webp",
     "category": "DRINKS"
   },
   {
     "id": "bebida-27",
-    "name": "Drink 27",
-    "description": "",
+    "name": "Name",
+    "description": "Description",
     "price": 0,
     "image": "/imagenes/27-pulpo-a-la-gallega-00000000-240227124229-1200x1200.jpg",
     "category": "DRINKS"
   },
   {
     "id": "bebida-28",
-    "name": "Drink 28",
-    "description": "",
+    "name": "Name",
+    "description": "Description",
     "price": 0,
     "image": "/imagenes/28-recetas-gourmet-con-solomillo-de-ternera-1200x793.jpg",
     "category": "DRINKS"
   },
   {
     "id": "bebida-29",
-    "name": "Drink 29",
-    "description": "",
+    "name": "Name",
+    "description": "Description",
     "price": 0,
     "image": "/imagenes/29-salmon-royale-con-camarones-742460.webp",
     "category": "DRINKS"
   },
   {
     "id": "bebida-30",
-    "name": "Drink 30",
-    "description": "",
+    "name": "Name",
+    "description": "Description",
     "price": 0,
     "image": "/imagenes/30-seafood-fideua.jpg",
     "category": "DRINKS"
   },
   {
     "id": "bebida-31",
-    "name": "Drink 31",
-    "description": "",
+    "name": "Name",
+    "description": "Description",
     "price": 0,
     "image": "/imagenes/31-spanish-garlic-shrimp.jpg",
     "category": "DRINKS"
   },
   {
     "id": "bebida-32",
-    "name": "Drink 32",
-    "description": "",
+    "name": "Name",
+    "description": "Description",
     "price": 0,
     "image": "/imagenes/32-trucha-a-la-plancha.jpg",
     "category": "DRINKS"
